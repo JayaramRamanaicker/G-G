@@ -1,5 +1,4 @@
 import React from 'react'
-import Toggle from "../components/Toggle";
 import Offer from '../components/Offer'
 import CustomPlan from '../components/CustomPlan'
 
@@ -11,7 +10,6 @@ const Pricing = () => {
         <p className='text-[20px] text-center pt-6'>Invite as many reviewers as you like, no extra costs.</p>
       </div>
       <div className='flex items-center justify-center gap-4 pt-30'>
-        <Toggle/>
       </div>
       <Offer/>
       <CustomPlan/>
