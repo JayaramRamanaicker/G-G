@@ -1,5 +1,5 @@
 import React from 'react'
-import Toggle from '../components/toggle'
+import Toggle from "../components/Toggle";
 import Offer from '../components/Offer'
 import CustomPlan from '../components/CustomPlan'
 
